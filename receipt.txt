@@ -1,0 +1,37 @@
+Product: Milk
+Amount: 20
+Price pr unit: 10.5
+Total price without discount: 210.0
+Total price with discount: 178.5
+
+
+Product: Butter
+Amount: 7
+Price pr unit: 15.75
+Total price without discount: 110.25
+
+
+Product: Frenchbread
+Amount: 12
+Price pr unit: 25.0
+Total price without discount: 300.0
+Total price with discount: 255.0
+
+
+Product: Bread
+Amount: 8
+Price pr unit: 17.75
+Total price without discount: 142.0
+
+
+Product: Yoghurt
+Amount: 18
+Price pr unit: 12.25
+Total price without discount: 220.5
+Total price with discount: 187.42499999999998
+
+
+The total price without discount: 982.75
+The total price with discount: 873.175
+
+* Discount is achieved when you buy 10 or more units of the same product.

@@ -1,0 +1,5 @@
+20 Milk 10,50
+7 Butter 15,75
+12 Frenchbread 25,00
+8 Bread 17,75
+18 Yoghurt 12,25
